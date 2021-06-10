@@ -50,6 +50,7 @@ module.exports = {
         }),
       network_id: "3",
     }
+    // @todo - goerli
   },
   solc: {
     optimizer: {
