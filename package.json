@@ -1,0 +1,30 @@
+{
+  "name": "dclinic-contracts",
+  "version": "1.0.0",
+  "description": "Truffle project for the development of the DCL Token Smart Contracts",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nonceblox/dclinic-contracts.git"
+  },
+  "keywords": [
+    "DCL",
+    "Dclinic",
+    "ERC20",
+    "Token",
+    "Polygon",
+    "Ethereum"
+  ],
+  "author": "Nonceblox",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nonceblox/dclinic-contracts/issues"
+  },
+  "homepage": "https://github.com/nonceblox/dclinic-contracts#readme"
+}
